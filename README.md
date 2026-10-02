@@ -94,10 +94,9 @@ MargMitra is an AI-powered navigation project aimed at helping rural users acces
 ## 🌍 Open Source
 | Project | Contribution | Status |
 | :--- | :--- | :--- |
-| **Mycelium** | Rejected boolean `budget.warn_at` values in both YAML loading and runtime configuration, with regression tests for invalid and valid thresholds. | 
+| **Mycelium** | Rejected boolean `budget.warn_at` values in both YAML loading and runtime configuration, with regression tests for invalid and valid thresholds. | [Merged PR #257](https://github.com/mycelium-labs/mycelium/pull/257) |
 | **TurboHTML** | Fixed `inner_html` for HTML `frame` elements to ignore void-element children while preserving SVG and MathML `frame` children; added regression tests, documentation, and changelog entry. | [Merged PR #1008](https://github.com/tox-dev/turbohtml/pull/1008) |
 | **Open Vids** | Fixed Node 25+ player test failures by disabling Node's experimental web storage so happy-dom provides the expected browser `localStorage`, without changing production code. | [Merged PR #18](https://github.com/bazodev/open-vids/pull/18) |
-[Merged PR #257](https://github.com/mycelium-labs/mycelium/pull/257) |
 | **Meshery** | Added a contributor introduction describing my background as a Computer Science student, interests in AI/ML and full-stack development, and approach to learning and collaboration. | [Merged PR #22080](https://github.com/meshery/meshery/pull/22080) |
 
 ## 📊 GitHub Stats
