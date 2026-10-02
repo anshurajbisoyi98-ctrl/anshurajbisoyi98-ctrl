@@ -35,13 +35,32 @@ I build web applications and explore how cloud infrastructure and AI can solve p
 
 ---
 
+<a id="margmitra"></a>
+
+## ☁️ AWS AI for Bharat Hackathon — MargMitra
+
+**Participated with MargMitra and shortlisted for the Prototype Development Phase.**
+
+MargMitra is an AI-powered navigation project aimed at helping rural users access natural-language route guidance, including in areas with limited connectivity. The project brings together **AWS Lambda, AWS Bedrock, Python, JavaScript, and serverless architecture**.
+
+<div align="center">
+
+<img src="assets/aws-ai-for-bharat-shortlisted.png" alt="AWS AI for Bharat Hackathon: shortlisted for the Prototype Development Phase" width="420" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does | Built with | Explore |
 | :--- | :--- | :--- | :--- |
+| 🚗 **Mustang Experience & Service Concierge** | Combines a cinematic automotive interface with vehicle records, service booking, maintenance reminders, and customer/admin workflows. | JavaScript · Vite · Node.js · Express · MongoDB | [Source](https://github.com/anshurajbisoyi98-ctrl/cargarage) |
+| ♻️ **E-Waste Recycler** | Connects citizens, collection agents, and administrators through pickup scheduling, recycling status tracking, and a points-based reward wallet. | React · Node.js · Express · MongoDB | [Source](https://github.com/anshurajbisoyi98-ctrl/sundayassignment) |
 | 🖼️ **HH Goa Frame Generator** | Creates personalized profile frames and builder ID cards, with local image processing, HEIC support, and PNG export. | React · TypeScript · Tailwind · Canvas | [Source](https://github.com/anshurajbisoyi98-ctrl/hackathonprojectgoa) · [Live app ↗](https://hackathonprojectgoa.vercel.app) |
+| 🎮 **Isometric Android Game Prototype** | Renders an isometric scene with buildings, draggable placement, camera panning, and pinch-to-zoom controls. | Kotlin · Android SurfaceView · Canvas | [Source](https://github.com/anshurajbisoyi98-ctrl/26marchhackathon) |
 | 🏥 **Hospital Management System** | Manages patient records with create, search, update, and delete workflows, MVC organization, and request logging. A learning project. | Node.js · Express · MongoDB · EJS | [Source](https://github.com/anshurajbisoyi98-ctrl/WEB_ASSIGNMENT) |
-| 🧭 **MargMitra** | Explores AI-powered route guidance for rural users with limited connectivity; selected for the AWS AI for Bharat Hackathon. | AWS Lambda · Bedrock · Python · JavaScript | Resume-listed project |
+| 🧭 **MargMitra** | AI-powered navigation for rural users; AWS AI for Bharat Hackathon participant, shortlisted for prototype development. | AWS Lambda · Bedrock · Python · JavaScript | [Hackathon highlight](#margmitra) |
 
 ---
 
@@ -95,6 +114,8 @@ I build web applications and explore how cloud infrastructure and AI can solve p
 ---
 
 ## 🏆 Beyond the Code
+
+- ☁️ **AWS AI for Bharat Hackathon:** participated with MargMitra and shortlisted for the Prototype Development Phase.
 
 - 🥇 **1st place — Scrap to Scale Ideathon (2025):** research, market analysis, and team pitch at Mirai School of Technology.
 - 🧠 **150+ LeetCode problems solved**, as recorded in my resume; continuing to practice data structures and algorithms.
